@@ -1,9 +1,9 @@
-Android Asset Studio
+Assets For Android
 ====================
 
-**[Open the Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)**
+**[Open the Assets For Android](https://vart86.github.io/AssetsForAndroid/)**
 
-**[See the older version](https://romannurik.github.io/AndroidAssetStudio/older-version/) if you're having trouble with the new version**
+**[See the older version](https://vart86.github.io/AssetsForAndroid/older-version/) if you're having trouble with the new version**
 
 A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 
@@ -25,6 +25,4 @@ Once dependencies are installed, run with `gulp`:
 
     $ gulp serve
 
-## Related (third-party) projects
 
-- [Android Asset Studio Desktop Apps](https://androidassetstudio.codeplex.com/)
